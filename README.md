@@ -50,13 +50,10 @@ The main goal of KarunadaVanya is to spread awareness, about wildlife. We want t
 
 ## Developed By
 
-Ashwini Ishwarappa Talawar
+Ashwini 
 
-BE – Computer Science and Engineering
+BE – Computer Science and Design Engineering
 
-## Screenshots
-
-(Add your project screenshots here)
 
 ## Future Enhancements
 
